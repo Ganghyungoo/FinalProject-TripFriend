@@ -55,6 +55,7 @@
 <br></br>
 # 시연 영상
 [시연 영상 보러가기>](https://youtu.be/S1FTEA2_2U0)
+<br></br>
 # 주요 기능 소개
 ## 로그인 및 회원가입  
 ![image](https://github.com/APPSCHOOL2-Android/FinalProject-TripFriend/assets/104668071/e9a35301-519f-455d-994c-ea9c1c23a239)
