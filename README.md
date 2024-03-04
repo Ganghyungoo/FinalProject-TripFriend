@@ -40,7 +40,19 @@
     </tr>
 </table>
 <br></br>
-          
+            
+## :snowman: Language, libraries and tools used :snowman:
+            
+| What | How |
+| --- | --- |
+| 🗣 Language | [Kotlin](https://kotlinlang.org/) |
+| 🎭 User Interface (Android) | [Material Design 3](https://m3.material.io/components/buttons/) |
+| 🏗 Architecture | MVVM |
+| 🌊 Async | [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) |
+| 🌐 Networking | [Retrofit](https://square.github.io/retrofit/), [Gson](https://github.com/google/gson) |
+| ☁ BackEnd Platform | [Firebase Firestore Database](https://firebase.google.com/docs/firestore?hl=ko&_gl=1*83kvzv*_up*MQ..*_ga*MTU2NTE5MzQ1LjE3MDk1NzI0MzI.*_ga_CW55HF8NVT*MTcwOTU3MjQzMS4xLjAuMTcwOTU3MjQzMS4wLjAuMA..), [FCM](https://github.com/Ganghyungoo/CampingUs/blob/main/README.md?plain=1)|  
+
+<br></br>
 # 주요 기능 소개
 ## 로그인 및 회원가입  
 ![image](https://github.com/APPSCHOOL2-Android/FinalProject-TripFriend/assets/104668071/e9a35301-519f-455d-994c-ea9c1c23a239)
