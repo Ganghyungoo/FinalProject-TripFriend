@@ -50,7 +50,7 @@
 | 🏗 Architecture | MVVM |
 | 🌊 Async | [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) |
 | 🌐 Networking | [Retrofit](https://square.github.io/retrofit/), [Gson](https://github.com/google/gson) |
-| ☁ BackEnd Platform | [Firebase Firestore Database](https://firebase.google.com/docs/firestore?hl=ko&_gl=1*83kvzv*_up*MQ..*_ga*MTU2NTE5MzQ1LjE3MDk1NzI0MzI.*_ga_CW55HF8NVT*MTcwOTU3MjQzMS4xLjAuMTcwOTU3MjQzMS4wLjAuMA..), [FCM](https://github.com/Ganghyungoo/CampingUs/blob/main/README.md?plain=1)|  
+| ☁ BackEnd Platform | [Firebase Firestore Database](https://firebase.google.com/docs/firestore?hl=ko&_gl=1*83kvzv*_up*MQ..*_ga*MTU2NTE5MzQ1LjE3MDk1NzI0MzI.*_ga_CW55HF8NVT*MTcwOTU3MjQzMS4xLjAuMTcwOTU3MjQzMS4wLjAuMA..), [FCM](https://firebase.google.com/docs/cloud-messaging?hl=ko)|  
 
 <br></br>
 # 시연 영상
