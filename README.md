@@ -54,7 +54,7 @@
 
 <br></br>
 # 시연 영상
-[시연 영상 보러가기>](https://youtu.be/S1FTEA2_2U0)
+[시연 영상 보러가기>](https://youtu.be/JOU5Lf0hqXs)
 <br></br>
 # 주요 기능 소개
 ## 로그인 및 회원가입  
