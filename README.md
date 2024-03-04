@@ -46,8 +46,20 @@
 ![image](https://github.com/APPSCHOOL2-Android/FinalProject-TripFriend/assets/104668071/e9a35301-519f-455d-994c-ea9c1c23a239)
 <br></br>
 ## 동행 등록(지도를 통한 동행 지역 설정)
-![image](https://github.com/APPSCHOOL2-Android/FinalProject-TripFriend/assets/104668071/f5d60e70-fc91-4723-9291-978b048b2c6c)
-
-## 아키텍처
+![image](https://github.com/APPSCHOOL2-Android/FinalProject-TripFriend/assets/104668071/2f80d25a-391a-4ba2-b907-112e0593df76)
+<br></br>
+## 동행 전 문의 채팅방 / 동행 그룹 채팅방 
+![image](https://github.com/APPSCHOOL2-Android/FinalProject-TripFriend/assets/104668071/4e2d23b0-210c-4021-bebb-e34557063ccf)
+<br></br>
+## 알림 
+![image](https://github.com/APPSCHOOL2-Android/FinalProject-TripFriend/assets/104668071/c4a905c7-3644-4a85-bc4f-dc706ad5e471)
+<br></br>
+## 게시글 검색 및 필터
+![image](https://github.com/APPSCHOOL2-Android/FinalProject-TripFriend/assets/104668071/6c42088a-390a-4d25-833e-d4d64070a43e)
+<br></br>
+## 동행글 CRUD 및 동행 신청
+![image](https://github.com/APPSCHOOL2-Android/FinalProject-TripFriend/assets/104668071/399c4d38-8d31-4824-a939-aae22d602507)
+<br></br>
+# 아키텍처
 
 ![image](https://github.com/APPSCHOOL2-Android/FinalProject-TripFriend/assets/104668071/d198cdaf-9377-4a63-919b-2abd4ee935ca)
