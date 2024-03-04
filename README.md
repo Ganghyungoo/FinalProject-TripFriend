@@ -53,6 +53,8 @@
 | ☁ BackEnd Platform | [Firebase Firestore Database](https://firebase.google.com/docs/firestore?hl=ko&_gl=1*83kvzv*_up*MQ..*_ga*MTU2NTE5MzQ1LjE3MDk1NzI0MzI.*_ga_CW55HF8NVT*MTcwOTU3MjQzMS4xLjAuMTcwOTU3MjQzMS4wLjAuMA..), [FCM](https://github.com/Ganghyungoo/CampingUs/blob/main/README.md?plain=1)|  
 
 <br></br>
+# 시연 영상
+[시연 영상 보러가기>](https://youtu.be/S1FTEA2_2U0)
 # 주요 기능 소개
 ## 로그인 및 회원가입  
 ![image](https://github.com/APPSCHOOL2-Android/FinalProject-TripFriend/assets/104668071/e9a35301-519f-455d-994c-ea9c1c23a239)
